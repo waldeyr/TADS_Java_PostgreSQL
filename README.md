@@ -2,7 +2,7 @@
 
 ## [Modelo de dados](https://github.com/waldeyr/TADS_Java_PostgreSQL/blob/master/src/projetosirlon/DATA_MODEL.pdf)
 
-## [SQL criação do banco] (https://github.com/waldeyr/TADS_Java_PostgreSQL/blob/master/src/projetosirlon/SQL_CREATE_DATABASE.sql)
+## [SQL criação do banco](https://github.com/waldeyr/TADS_Java_PostgreSQL/blob/master/src/projetosirlon/SQL_CREATE_DATABASE.sql)
 
 ## Fazer, em duplas, um arquivo SQL que:
 * insira dados fictícios no banco de dados
